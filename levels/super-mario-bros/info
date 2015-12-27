@@ -1,0 +1,5 @@
+;SuperTux-Level-Subset
+(supertux-level-subset
+ (title "Super Mario Bros")
+ (description "An attempt at recreating some of Super Mario Bros with SuperTux")
+)

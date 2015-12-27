@@ -1,0 +1,8 @@
+(supertux-addoninfo
+  (kind "Levelset")
+  (title "Super Mario Bros")
+  (author "Rob Loach")
+  (license "GPL 2+ / CC-by-sa 3.0")
+  (http-url "https://github.com/RobLoach/supertux-super-mario-bros/archive/master.zip")
+  (file "super-mario-bros.zip")
+)
